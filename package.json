@@ -24,6 +24,9 @@
     "webpack": "^1.12.9",
     "webpack-dev-server": "^1.14.0"
   },
+  "engines": {
+    "node": "9.5.0"
+  },
   "dependencies": {
     "babel-core": "^6.2.1",
     "babel-loader": "^6.2.0",
